@@ -1,0 +1,8 @@
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\bin\Debug\Course.exe.config
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\bin\Debug\Course.exe
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\bin\Debug\Course.pdb
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.csproj.SuggestedBindingRedirects.cache
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.exe
+C:\Users\frost\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.pdb
